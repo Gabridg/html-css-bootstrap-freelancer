@@ -5,4 +5,5 @@ header {
 
 [class^='col'] {
     background-color: #0f0;
+    border: 1px dashed #000;
 }
