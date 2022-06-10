@@ -48,3 +48,12 @@ header {
 .bor-color {
     border-color: #fff;
 }
+
+#contact .spacer-bar {
+    width: 30%;
+}
+
+.second-bgc-color {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
