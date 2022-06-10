@@ -12,6 +12,10 @@ header {
     background-color: #1abc9c;
 }
 
+.jumbo-img {
+    height: 200px;
+}
+
 .spacer-bar {
     display: inline-block;
     width: 40%;
@@ -35,4 +39,12 @@ header {
 
 #about {
     background-color: #1abc9c;
+}
+
+#about .spacer-bar {
+    width: 30%;
+}
+
+.bor-color {
+    border-color: #fff;
 }
